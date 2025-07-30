@@ -17,6 +17,14 @@ This work bridges advanced algebraic geometry, arithmetic, analytic number theor
 
 ---
 
+## Research Paper
+
+You can read the full paper here (view-only):
+
+[Logarithmic Geometry with Nilpotent Extensions (PDF)](https://drive.google.com/file/d/1drypguS234SEWnRWKTTGJRQrNKteqqJ_/view?usp=sharing)
+
+---
+
 ## Key Features & Contributions
 
 - **Logarithmic Čech Complexes with Nilpotent Extensions**  
