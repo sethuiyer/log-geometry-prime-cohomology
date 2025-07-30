@@ -21,7 +21,7 @@ This work bridges advanced algebraic geometry, arithmetic, analytic number theor
 
 You can read the full paper here (view-only):
 
-[Logarithmic Geometry with Nilpotent Extensions (PDF)](https://drive.google.com/file/d/1drypguS234SEWnRWKTTGJRQrNKteqqJ_/view?usp=sharing)
+[Logarithmic Geometry with Nilpotent Extensions (PDF)](https://drive.google.com/file/d/1wHuX6de7OQ0u58nvmrb1bxaa6Zn_dZYb/view?usp=sharing)
 
 ---
 
